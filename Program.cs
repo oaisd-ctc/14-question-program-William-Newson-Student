@@ -46,6 +46,6 @@ public class Program
 
         int? Age5 = Age + 5;
 
-        Console.WriteLine("My freinds name is " + Name + ". " + Name + "is " + Age + "-years old. " + Name + "'s eye color is " + EyeColor + " and his hair color is " + HairColor + ". he has a shoe size of " + ShoeSize + ". the following is his favorite things: color: " + FavColor + " Piece of media: " + FavShow + " class: " + FavClass + " holiday: " + FavDay + " and season: " + FavSeason + ". " + Name + "'s Dream job is " + DreamJob + " and in 5 years they will be " + Age5 + "-years old." + " and they have " + SiblingNun + " siblings.");
+        Console.WriteLine("My freinds name is " + Name + ". " + Name + " is " + Age + "-years old. " + Name + "'s eye color is " + EyeColor + " and his hair color is " + HairColor + ". he has a shoe size of " + ShoeSize + ". the following is his favorite things: color: " + FavColor + " Piece of media: " + FavShow + " class: " + FavClass + " holiday: " + FavDay + " and season: " + FavSeason + ". " + Name + "'s Dream job is " + DreamJob + " and in 5 years they will be " + Age5 + "-years old." + " and they have " + SiblingNun + " siblings.");
     }
 }
